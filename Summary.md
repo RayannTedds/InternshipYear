@@ -1,0 +1,11 @@
+Within my internship year, I completed a variety of app development projects. This repository holds the code for the following:
+- Vancomycin Calculator
+- Gentamicin Calculator
+- Gentamicin Renal Calculator
+- Body Fat Percentage Calculator
+- Lean Body Mass Calculator
+- Extranet
+- Anaemia
+- Nurse Handbook
+- Safety and Quality
+- Malnutrition Tracker
